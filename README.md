@@ -1,4 +1,4 @@
-<h1 align="center">Aloha 👋, I'm Zied Gmar</h1>
+<h1 align="center">Hallo 👋, I'm Zied Gmar</h1>
 <h3 align="center">Full-Stack JavaScript Developer | Angular • React • NestJS</h3>
 
 <p align="center">
