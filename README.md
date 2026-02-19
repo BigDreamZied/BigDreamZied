@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, I'm Zied Gmar</h1>
-<h3 align="center">Full-Stack JavaScript Developer | Angular • React • NestJS</h3>
+<h3 align="center">Full-Stack JavaScript Developer | Enthusiast in Cybersecurity and Secure Coding </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zied-gmar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
